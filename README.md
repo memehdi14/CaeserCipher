@@ -12,19 +12,19 @@ CipherCrypt is a simple C-based program that allows users to encrypt and decrypt
 ## 🚀 Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/CipherCrypt.git
+   git clone https://github.com/memehdi14/caesar_cipher.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd CipherCrypt
+   cd caesar_cipher
    ```
 3. Compile the program:
    ```sh
-   gcc ciphercrypt.c -o ciphercrypt
+   gcc caesar_cipher.c -o caesar_cipher
    ```
 4. Run the program:
    ```sh
-   ./ciphercrypt
+   ./caesar_cipher
    ```
 
 ## 📜 How It Works
@@ -37,9 +37,9 @@ CipherCrypt is a simple C-based program that allows users to encrypt and decrypt
 
 ## 📂 File Structure
 ```
-CipherCrypt/
-│── ciphercrypt.c          # Main C program
-│── cipher_history.txt     # Stores encryption/decryption history
+caesar_cipher/
+│── caesar_cipher.c          # Main C program
+│── caesar_cipher.txt     # Stores encryption/decryption history
 │── README.md              # Documentation
 ```
 
