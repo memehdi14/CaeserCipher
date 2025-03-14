@@ -1,0 +1,20 @@
+Operation: Encrypt
+Input: my name is anthony
+Output: vh wjvn rb jwcqxwh
+
+Operation: Decrypt
+Input: vh wjvn rb jwcqxwh
+Output: my name is anthony
+
+Operation: Decrypt
+Input: wxjh
+Output: noay
+
+Operation: Encrypt
+Input: jadooo
+Output: sjmxxx
+
+Operation: Encrypt (from file)
+Input: mar gaya mardood na fateha na Darood
+Output: vja pjhj vjamxxm wj ojcnqj wj Mjaxxm
+
